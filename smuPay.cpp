@@ -1,6 +1,5 @@
-// Cameron Keith
+// C. Keith
 //13 March 2016
-// CSE 5379 Lab 2
 #include <stdio.h>
 #include <string.h>
 #include <iostream>
