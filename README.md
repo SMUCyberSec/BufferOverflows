@@ -15,10 +15,30 @@ Accepts a username, and presents 3 options: Log out, Check Balance, and Make a p
 
 Goal: Exploit the make payment option to get money back.
 
+
+---------------
+| timeBreaker |
+---------------
+Author: A. Buck
+Compile: gcc timebreaker.c -o timebreaker -g -fno-stack-protector
+
+
+
+About: 
+Welcome to TimeBreaker, the panic simulation game where you play a highschooler who just had a party and trashed his parents house!
+
+You had an awesome party while your parents were out of town, but you overslept and need to clean up before they get home. You just got a phone call that they are only 5 minutes away! 
+
+Goal: 
+You need to find a way to freeze time so you can clean the house before they arrive!
+
+You are given several options and then prompted for your decision. Enter your choice and hopefully you can stop time before your parents get home! Luckily I think there is a cheatcode function that will give you the magic powers to stop time. Good luck!
+
+
 ------------------
 | vendingMachine |
 ------------------
-Author: Cameron Keith
+Author: Unknown
 Compile: g++ -fno-stack-protector –g –o vendingMachine vendingMachine.cpp
 
 About:
