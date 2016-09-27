@@ -7,7 +7,7 @@ Try your hand at exploiting buffer overflows with the following apps. They're co
 ----------
 | smuPay |
 ----------
-Author: Cameron Keith
+Author: C. Keith
 Compile: g++ -fno-stack-protector -g  -o smuPay.out smuPay.cpp
 
 About: 
@@ -39,9 +39,9 @@ You are given several options and then prompted for your decision. Enter your ch
 | vendingMachine |
 ------------------
 Author: Unknown
-Compile: g++ -fno-stack-protector –g –o vendingMachine vendingMachine.cpp
+Compile: g++ -fno-stack-protector â€“g â€“o vendingMachine vendingMachine.cpp
 
 About:
-This program is a drink vending machine. You will enter the number of your drink selection and be told what the price is. From there you will deposit coins by typing the number ‘25’, ‘10’, or ‘5’. You will be given your drink and your change.
+This program is a drink vending machine. You will enter the number of your drink selection and be told what the price is. From there you will deposit coins by typing the number â€˜25â€™, â€˜10â€™, or â€˜5â€™. You will be given your drink and your change.
 
 Goal: Get a drink for free.
