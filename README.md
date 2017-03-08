@@ -16,18 +16,6 @@ Accepts a username, and presents 3 options: Log out, Check Balance, and Make a p
 
 Goal: Exploit the make payment option to get money back.
 
-
--------------
-| stoptrump |
--------------
-Compile: g++ stoptrump.cpp -fno-stack-protector -g
-
-About: You're in a debate with Donald Trump. Each round you have to endure a ridiculous (REAL) quote from him and his votes go up (while of course voters' brain cells slowly die). If you want to give up you'll have to type "ivotedonald". 
-
-Goal: Disable his mic to stop him talking before he kills everyone's brain cells then zero out his votes.
-
-
-
 ---------------
 | timeBreaker |
 ---------------
